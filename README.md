@@ -48,6 +48,7 @@
 - **Animacions** en l'enemic.  
 - Alguns **sons** com als power ups o disparar.  
 - **l'enemic mor en ser disparát**
+- **Barrils obstacle, disparar per derribar.**
 
 ---
 
